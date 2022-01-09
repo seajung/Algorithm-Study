@@ -18,15 +18,16 @@
 4. 코드 리뷰 받은 것에 대해서는 다음 주까지 수정해서 다시 깃허브에 올리기.
 
 
+
 #### 코딩테스트 고득점 Kit (프로그래머스)
 
 | **주차** | **폴더명**          | **문제 1**                                                   | **문제 2**                                                   | **문제 3**                                                   | **진행 현황** |
 | -------- | ------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------- |
-| 1주차-1    | stack_queue         | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) |                                                              | ``   |
-| 2주차-1   | dfs_bfs             | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | ``   |
-| 2주차-2    | hash                | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | ``   |
-| 3주차-1    | sort                | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | ``   |
-| 3주차-2    | binary_search       | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) |                                                              | ``   |
-| 4주차-1    | dynamic_programming | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) | [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) | ``   |
-| 4주차-2    | heap                | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) | [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) | ``   |
-| 보너스   | graph               | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | [방의 개수](https://programmers.co.kr/learn/courses/30/lessons/49190) | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) | ``   |
+| 1주차-1    | stack_queue         | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) |                                                              | ```진행완료```   |
+| 2주차-1   | dfs_bfs             | [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) | [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | ``` ```  |
+| 2주차-2    | hash                | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) |  ``` ```   |
+| 3주차-1    | sort                | [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | ``` ```   |
+| 3주차-2    | binary_search       | [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | [징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236) |                                                              | ``` ```   |
+| 4주차-1    | dynamic_programming | [N으로 표현](https://programmers.co.kr/learn/courses/30/lessons/42895) | [등굣길](https://programmers.co.kr/learn/courses/30/lessons/42898) | [정수 삼각형](https://programmers.co.kr/learn/courses/30/lessons/43105) |  ``` ```   |
+| 4주차-2    | heap                | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | [디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627) | [이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628) |  ``` ```   |
+| 보너스   | graph               | [가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189) | [방의 개수](https://programmers.co.kr/learn/courses/30/lessons/49190) | [순위](https://programmers.co.kr/learn/courses/30/lessons/49191) | ``` ```  |
