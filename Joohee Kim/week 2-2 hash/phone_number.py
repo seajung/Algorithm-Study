@@ -1,4 +1,4 @@
-
+# O(nlogn)
 def solution1(phone_book):
     answer = True
     phone_dict = {}
@@ -9,15 +9,15 @@ def solution1(phone_book):
 
     return answer
     
-# with HASH
+# O(n^2) with HASH
 def solution2(phone_book):
     answer = True
     phone_dict = {}
     for num in phone_book:
-        phone_dict[num] = 0
+        phone_dict[num] = 0 #O(n)
     for num in phone_book:
         for i in range(len(num)-1):
-            if num[:i+1] in phone_dict.keys():
+            if num[:i+1] in phone_dict.keys(): #O(n)
                 return False
 
     return answer
