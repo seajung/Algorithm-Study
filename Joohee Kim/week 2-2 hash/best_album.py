@@ -1,4 +1,4 @@
-# 시간복잡도 O(n)
+# 시간복잡도 O(nlogn)
 # n: song의 개수 (len(genres))
 # m: genre의 개수 (len(total_plays_in_genre))
 # m < n (m<100)
@@ -19,7 +19,7 @@ def solution(genres, plays):
     
     # 총 재생 많이 된 장르 순으로 정렬
     total_lst = list(total_plays_in_genre.items())
-    total_lst.sort(key = lambda x: -x[1])   # O(mlogm)
+    total_lst.sort(key = lambda x: -x[1])   # O(mlogm)-->O(nlogn)
     
     # 장르 별로 노래 수록하기
     for tup in total_lst:
@@ -29,7 +29,7 @@ def solution(genres, plays):
             lst_in_genre.remove(max_song)
             answer.append(max_song[0])
             if i == 1: 
-                break;
+                break
         
     return answer
 
